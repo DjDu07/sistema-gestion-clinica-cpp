@@ -15,3 +15,7 @@ Sistema orientado al almacenamiento de datos y la creación de reportes estadís
 - **Lenguaje:** C++ Estándar
 - **IDE:** Visual Studio
 - **Conceptos clave:** Punteros, Estructuras de Datos (`struct`), Asignación dinámica de memoria y Estructuras de control condicionales/cíclicas.
+
+## Créditos y Autoría
+Este proyecto fue desarrollado de forma grupal como parte del curso de Fundamentos de Programación en la UPC.
+Integrantes: Diego Joaquín Díaz Urday y Diego Alberto Aquino Chaccara
